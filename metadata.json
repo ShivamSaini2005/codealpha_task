@@ -1,6 +1,6 @@
 {
-  "name": "E-Commerce Store",
-  "description": "A fully functional full-stack e-commerce store featuring product listings, detailed pages, user registration, authentication, a shopping cart, and order processing.",
+  "name": "CodeAlpha_EcommerceStore",
+  "description": "A full-stack e-commerce web application developed for the CodeAlpha Full Stack Development Internship. Features include product listing, product details, user registration, login, shopping cart, checkout, and order processing using React, TypeScript, Express.js, and a JSON database.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
