@@ -1,8 +1,6 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+{
+  "name": "CodeAlpha_EcommerceStore",
+  "description": "A full-stack e-commerce web application developed for the CodeAlpha Full Stack Development Internship. Features include product listing, product details, user registration, login, shopping cart, and order processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
